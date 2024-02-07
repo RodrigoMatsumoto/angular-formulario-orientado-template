@@ -79,3 +79,7 @@
   border-color: red;
   color: red;
 }
+
+app-mensagem {
+  display: block;
+}
